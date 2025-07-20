@@ -116,3 +116,63 @@ Below are five strategic AI feature proposals that enhance usability, automate d
 
 Each of these AI-enhanced features not only addresses a specific pain point but also aligns with TapClicks' broader vision: empowering marketers through scalable, automated, insight-driven tools.
 
+## 📊 Roadmap with Business Impact
+
+To bridge the gap between product vision and execution, the following roadmap outlines key features proposed in this case study—each mapped to a measurable business outcome:
+
+| 🚀 Feature                   | 📋 Description                                                         | 📈 Business Impact                                          |
+|----------------------------|------------------------------------------------------------------------|-------------------------------------------------------------|
+| **LLM Narrative Reports**   | Auto-generates natural-language summaries for dashboards               | Saves 5–10 hrs/month per agency; boosts client clarity      |
+| **Predictive Attribution**  | Forecasts ROI across channels using historical data and ML             | Enables smarter pre-campaign planning and budget shifts     |
+| **Real-Time Alerts**        | Custom alerts for CTR drops, pacing issues, overspend                  | Improves agility; prevents performance losses               |
+| **Visual Onboarding Wizard**| Step-by-step UI to guide new users through setup and dashboard creation| Reduces churn; shortens time-to-value                       |
+| **Privacy Automation**      | Anonymization and retention policies embedded in ETL workflows         | Builds trust with enterprise clients; ensures compliance     |
+| **Niche Channel Integrations**| TikTok, Shopify, CTV with granular performance insights              | Captures fast-growing ad segments; extends platform relevance|
+
+This roadmap focuses on reducing manual work, improving campaign decision speed, and helping TapClicks evolve into a proactive, AI-powered partner for agencies.
+
+## 🥇 Competitive Positioning & Strategic Advantage
+
+TapClicks already leads in the number of connectors and flexibility of reporting—but with the rise of AI and self-serve analytics, differentiation requires more than scale.
+
+Here’s how TapClicks compares against notable competitors:
+
+| Feature/Platform          | TapClicks       | Supermetrics     | Datorama (Salesforce) | Whatagraph        |
+|---------------------------|------------------|-------------------|------------------------|-------------------|
+| # of Data Connectors      | 250+             | 100+              | 100+                   | 40+               |
+| White-Labeled Reporting   | ✅                | ❌                | Limited                | ✅                |
+| LLM/AI Summaries (Proposed)| ✅                | ❌                | ❌                     | ❌                |
+| Predictive Attribution    | ✅ (proposed)     | ❌                | ✅ (enterprise only)   | ❌                |
+| Custom Alerts             | ✅ (proposed)     | ❌                | ❌                     | ❌                |
+| Privacy Automation        | ✅ (proposed)     | ❌                | ✅                     | ❌                |
+| Guided Onboarding         | ✅ (proposed)     | ❌                | Limited                | ❌                |
+
+> With these enhancements, TapClicks not only competes on features—but on usability, trust, and intelligence. It bridges the gap between raw reporting and actionable strategy.
+
+## 🌱 What I Learned
+
+Working on this case study helped me deepen my skills in:
+
+- 🧠 Translating UX gaps into product feature ideas
+- 🤖 Designing AI capabilities that solve real user pain points
+- 🧩 Aligning messaging, SEO, and conversion strategy with business goals
+- 📊 Creating analytics roadmaps that link insights to action
+
+It also reaffirmed my belief that great product design lives at the intersection of data, empathy, and narrative clarity.
+
+---
+
+## 🙋‍♀️ About Me
+
+I'm **Kirti Vatsh** — a product-minded analyst with a background in software engineering, marketing analytics, and AI product strategy. I recently completed my MBA/MSBA from the University of Colorado Boulder and am currently building my portfolio through independent case studies, industry conversations, and real-world product audits.
+
+**Past Projects:**
+- Led GTM strategy for Caelus' MostLeast.io, navigating ambiguity to deliver clear market positioning.
+- Created predictive churn analytics for Seagate’s talent team.
+- Built HIPAA-compliant data pipelines for pharma dashboards at IQVIA.
+
+🛠️ Core Skills:  
+Product Strategy • SQL • Python • Tableau • UX Flows • LLMs • Attribution Modeling • Agile • Stakeholder Alignment
+
+🔗 Connect with me:  
+[GitHub](https://github.com/Kirti-Vatsh) | [LinkedIn](https://www.linkedin.com/in/kirti-vatsh/) | 📧 vatsh1995kirti@gmail.com
